@@ -5,7 +5,7 @@ Tweepy
 
 Warning. This methods were disabled
 ------------
-tweepy.utils.parse_datetime
+tweepy.utils.parse_datetime and
 tweepy.utils.parse_search_datetime
 
 Installation

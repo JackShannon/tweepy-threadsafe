@@ -1,6 +1,12 @@
-Tweepy [![Build Status](https://travis-ci.org/tweepy/tweepy.png)](https://travis-ci.org/tweepy/tweepy)
+Tweepy 
 ======
 *Twitter for Python!*
+(thread safe version)
+
+Warning. This methods were disabled
+------------
+tweepy.utils.parse_datetime
+tweepy.utils.parse_search_datetime
 
 Installation
 ------------
@@ -12,7 +18,7 @@ is by using pip/easy_install to pull it from PyPI:
 You may also use Git to clone the repository from
 Github and install it manually:
 
-    git clone https://github.com/tweepy/tweepy.git
+    git clone https://github.com/idooo/tweepy.git
     python setup.py install
 
 **Note** only Python 2.6 and 2.7 is supported at
